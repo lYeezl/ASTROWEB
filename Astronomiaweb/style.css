@@ -1,0 +1,37 @@
+#container-introduction {
+  padding: 15px 0px;
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+
+
+}
+
+.paneles {
+  height: 60vh;
+ 
+  background-image: url("/imagenes/MwMertola_Claro_2000.jpg");
+  background-size: cover;
+  width: 100%;
+  padding:650px;
+   
+}
+
+#text {
+  font-family: 'Courier New', Courier;
+  font-size: 130px;
+  color: rgb(243, 237, 237);
+  font-family: "Open Sans", sans-serif;
+
+}
+
+#def{
+  
+  padding: 20px;
+  font-size: 70px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.329);
+  background-position: 20px
+  
+}
