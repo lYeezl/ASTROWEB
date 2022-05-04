@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax260px);
+}
+.paneles{
+
+    background-color: rgba(13, 66, 87, 0.63);
+}
+
